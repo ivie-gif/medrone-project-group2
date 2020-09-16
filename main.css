@@ -151,6 +151,9 @@ position: absolute; /* Position the background text */
   padding-left: 20px; 
   padding-top: 25%;
 }
+.solutionimgg{
+    padding-top: 25%;
+}
 .card-text {
     text-align: center;
     font-size: medium;
