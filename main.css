@@ -40,12 +40,11 @@ html,body{
     margin-top: 10%;
 }
 
-.indexdrones{
-    margin-top: 5%;
-    padding-top: 190px;
-}
 .indexdronesp{
     margin-left: 0%;
+}
+.indexdronesbt{
+    margin-left: 47%;
 }
 .howdroneswork{
     margin-top: 10%;
@@ -152,7 +151,7 @@ position: absolute; /* Position the background text */
   color: #f1f1f1; /* Grey text */
   width: 100%; /* Full width */
   padding-left: 20px; /* Some padding */ 
-  padding-top: 150px; 
+  padding-top: 300px; 
 }
 .card-text {
     text-align: center;
@@ -312,17 +311,6 @@ padding-top: 2px;
     border-radius: 10px;
 }
 
-.card-img-overlay {
-    position: absolute; /* Position the background text */
-    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-    top: 0;
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    color: #f1f1f1; /* Grey text */
-    width: 100%; /* Full width */
-    padding: 50px; /* Some padding */  
-    text-align:center;
-}
 .aboutsocials {
     margin-left: 45%;
 }
