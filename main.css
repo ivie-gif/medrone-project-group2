@@ -8,6 +8,7 @@
         bottom: 0;
         left: -45%;
         transition: all 0.2s ease;
+
     }
 
     .navbar-collapse.show .navbar-nav {
@@ -25,6 +26,9 @@
 }.nav-item a:hover{
 
 background-color: goldenrod;
+ }
+ .nav-item, li{
+     color: green;
  }
    
                                 /*nav ends*/
@@ -190,6 +194,10 @@ position: absolute; /* Position the background text */
     margin-top: 80px;
     background-color: lavender;
     padding: 100px;
+    
+}
+.technologypartsh2{
+    text-align: center;
 }
 .partofthdroneh2 {
     text-align: center;
@@ -197,7 +205,10 @@ position: absolute; /* Position the background text */
     font-size: 40px;
     font-weight: bold;
 }
-
+.partofthdronep {
+    margin-left: 70px;
+    margin-right: 70px;
+}
 .card-img-overlay {
     position: absolute; /* Position the background text */
     bottom: 0; /* At the bottom. Use top:0 to append it to the top */
@@ -231,8 +242,11 @@ color: black;
     color: black;
 }
 .technologyparts{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-left: auto;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 /* SOLUTION PAGE */
