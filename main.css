@@ -149,6 +149,7 @@ position: absolute; /* Position the background text */
   color: #f1f1f1; /* Grey text */
   width: 100%; /* Full width */
   padding-left: 20px; 
+  padding-top: 250px;
 }
 .card-text {
     text-align: center;
