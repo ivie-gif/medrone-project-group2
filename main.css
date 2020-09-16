@@ -151,7 +151,6 @@ position: absolute; /* Position the background text */
   color: #f1f1f1; /* Grey text */
   width: 100%; /* Full width */
   padding-left: 20px; /* Some padding */ 
-  padding-top: 300px; 
 }
 .card-text {
     text-align: center;
